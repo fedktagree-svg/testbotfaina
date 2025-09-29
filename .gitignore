@@ -1,0 +1,6 @@
+pycache/
+*.pyc
+.env
+users.txt
+*.mp4
+*.jpg
